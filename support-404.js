@@ -1,0 +1,1 @@
+!function(){for(const t of document.getElementsByClassName("js-support-404"))t.href="https://old.whileimautomaton.net"+location.pathname}();
